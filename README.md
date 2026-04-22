@@ -57,4 +57,5 @@ sudo gem install wpscan
 ```
 
 Pour Unbound et certains scans nmap, il peut être nécessaire d'ajouter des règles `sudoers` limitées.
+
 Utilise les commandes OSINT uniquement sur des machines, domaines ou services que tu possèdes ou pour lesquels tu as une autorisation.
